@@ -1,0 +1,22 @@
+{
+  "name": "react-og",
+  "version": "1.0.0",
+  "description": "reactapp",
+  "main": "index.html",
+  "dependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-react-es2015": "^1.2.0",
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak",
+  "license": "ISC"
+}
